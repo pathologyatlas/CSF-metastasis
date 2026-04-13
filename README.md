@@ -378,13 +378,16 @@ Leptomeningeal metastasis of lobular breast carcinoma, CSF metastasis
 :::::
 
 
+---
 
+### Viewing Modes
 
+- [All Stains (Sequential)](https://images.patolojiatlasi.com/CSF-metastasis/all.html) - Browse MGG-1, MGG-2, PAP-1, PAP-2 stains in sequence
+- [Side by Side Comparison](https://images.patolojiatlasi.com/CSF-metastasis/sidebyside.html) - View stains in synchronized panels
+- [Curtain Comparison](https://images.patolojiatlasi.com/CSF-metastasis/curtain.html) - Overlay two stains with a draggable slider
 
+### Görüntüleme Modları
 
-
-
-
-
-
-
+- [Tüm Boyamalar (Sıralı)](https://images.patolojiatlasi.com/CSF-metastasis/all.html) - Tüm boyamaları sırayla inceleyin
+- [Yan Yana Karşılaştırma](https://images.patolojiatlasi.com/CSF-metastasis/sidebyside.html) - Boyamaları eş zamanlı panellerde görüntüleyin
+- [Perde Karşılaştırma](https://images.patolojiatlasi.com/CSF-metastasis/curtain.html) - İki boyamayı sürgülü perde ile karşılaştırın
